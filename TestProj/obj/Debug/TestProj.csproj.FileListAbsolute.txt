@@ -1,0 +1,7 @@
+C:\Users\Kevin\source\repos\TestProj\TestProj\bin\Debug\TestProj.exe.config
+C:\Users\Kevin\source\repos\TestProj\TestProj\bin\Debug\TestProj.exe
+C:\Users\Kevin\source\repos\TestProj\TestProj\bin\Debug\TestProj.pdb
+C:\Users\Kevin\source\repos\TestProj\TestProj\obj\Debug\TestProj.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\TestProj\TestProj\obj\Debug\TestProj.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\TestProj\TestProj\obj\Debug\TestProj.exe
+C:\Users\Kevin\source\repos\TestProj\TestProj\obj\Debug\TestProj.pdb
